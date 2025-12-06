@@ -204,7 +204,7 @@ This repository contains 12 practical programs implementing fundamental computer
 <img width="125" height="111" alt="image" src="https://github.com/user-attachments/assets/472a58ef-1b4e-4e59-8dd9-401c5bdc6aae" />
 <img width="412" height="90" alt="image" src="https://github.com/user-attachments/assets/9a0631c3-551a-4fa4-88b2-d83ab2c56feb" />
 <img width="619" height="174" alt="image" src="https://github.com/user-attachments/assets/af04a0d4-8218-4d15-8121-89d64369ad87" />
-<img width="302" height="90" alt="image" src="https://github.com/user-attachments/assets/e4ca26a0-6220-4f3d-8bc4-640f284f5328" />
+<img width="302" height="190" alt="image" src="https://github.com/user-attachments/assets/e4ca26a0-6220-4f3d-8bc4-640f284f5328" />
 
 
 
