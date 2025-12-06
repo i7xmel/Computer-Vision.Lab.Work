@@ -201,8 +201,8 @@ This repository contains 12 practical programs implementing fundamental computer
 <img width="158" height="162" alt="image" src="https://github.com/user-attachments/assets/a7895ad4-9902-460c-a3e3-21031f482219" />
 <img width="159" height="156" alt="image" src="https://github.com/user-attachments/assets/0dac5a17-ff76-488f-92c0-fbdd0b246790" />
 <img width="160" height="159" alt="image" src="https://github.com/user-attachments/assets/4ef73395-8690-499a-84c6-a72a5332899a" />
-<img width="125" height="111" alt="image" src="https://github.com/user-attachments/assets/472a58ef-1b4e-4e59-8dd9-401c5bdc6aae" />
-<img width="412" height="90" alt="image" src="https://github.com/user-attachments/assets/9a0631c3-551a-4fa4-88b2-d83ab2c56feb" />
+<img width="325" height="311" alt="image" src="https://github.com/user-attachments/assets/472a58ef-1b4e-4e59-8dd9-401c5bdc6aae" />
+<img width="412" height="190" alt="image" src="https://github.com/user-attachments/assets/9a0631c3-551a-4fa4-88b2-d83ab2c56feb" />
 <img width="619" height="174" alt="image" src="https://github.com/user-attachments/assets/af04a0d4-8218-4d15-8121-89d64369ad87" />
 <img width="302" height="190" alt="image" src="https://github.com/user-attachments/assets/e4ca26a0-6220-4f3d-8bc4-640f284f5328" />
 
